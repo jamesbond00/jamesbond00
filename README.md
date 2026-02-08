@@ -26,9 +26,3 @@ I use this space as a personal lab to explore the **AI-Native development lifecy
 I believe the next era of software engineering isn't just about writing code, but about **orchestrating intelligence**. This profile documents my journey of applying senior-level architectural rigor to the world of autonomous agents.
 
 > *Note: These projects are personal experiments to learn new tech stacks and are independent of my professional employment.*
-
----
-
-### Connect with me
-* **Focus:** E-Trading & AI-Native Development
-* **LinkedIn:** www.linkedin.com/in/alexanderkhundoev
