@@ -1,6 +1,6 @@
 # Hi, I'm Alexander 👋
 
-### **Senior Java Engineer | Front Office E-Trading Veteran | AI-Native Explorer**
+### **Senior Java Engineer | Front Office Trading Systems | Low-Latency & Reliability | Python | Open Source**
 
 With over 15 years of experience architecting high-frequency, low-latency electronic trading systems at Tier-1 Investment Banks, I’ve built a career on the precision and stability required by global markets.
 
