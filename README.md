@@ -2,27 +2,32 @@
 
 ### **Senior Java Engineer | Front Office Trading Systems | Low-Latency & Reliability | Python | Open Source**
 
-With over 15 years of experience architecting high-frequency, low-latency electronic trading systems at Tier-1 Investment Banks, I’ve built a career on the precision and stability required by global markets.
+Senior engineer with 15+ years building low-latency, mission-critical front-office trading systems at Tier-1 investment banks (RFQ/OMS/FIX across Rates/FX/Equities). I focus on latency-sensitive flows, resiliency, and production ownership—where correctness, operational discipline, and rapid incident response directly matter.
 
-I am now bridging that mission-critical engineering mindset with the frontier of **Generative AI and Agentic Workflows.**
-
----
-
-### What I’m Doing Now
-I use this space as a personal lab to explore the **AI-Native development lifecycle**, focusing on how LLMs and autonomous agents can transform complex enterprise systems.
-
-* **[System Diagnostics Copilot](https://github.com/jamesbond00/ai-copilot-public):** My flagship experimental project—an Enterprise Event Intelligence platform exploring Agentic workflows and explainable automation.
-* **The AI Sandbox:** Experimenting with **Google Antigravity**, **Cursor**, and **Codex** to see how AI-driven tools can refactor and optimize robust Java architectures.
-* **Orchestrating Intelligence:** Moving beyond "black box" AI to build systems that provide verifiable reasoning for diagnostic decisions.
-
-### Tech Stack & Expertise
-* **The Foundation:** Java (Expert - Multi-threading, Low Latency), Spring Boot/Cloud, Microservices, Messaging.
-* **The Domain:** RFQ Engines, FIX Protocol, ION MarketView, OMS/EMS (Rates, FX, Equities).
-* **The Frontier:** LLM Orchestration, Agentic Frameworks, Prompt Engineering for Enterprise Code.
+I’m now extending that same engineering mindset into **LLM-powered diagnostics and agentic workflows**: systems that can turn noisy production signals into **structured, evidence-backed** explanations and next actions—while staying auditable and safe for real environments.
 
 ---
 
-### The Philosophy
-I believe the next era of software engineering isn't just about writing code, but about **orchestrating intelligence**. This profile documents my journey of applying senior-level architectural rigor to the world of autonomous agents.
+## What I’m Doing Now
 
-> *Note: These projects are personal experiments to learn new tech stacks and are independent of my professional employment.*
+I use this GitHub space as a practical lab for **production-grade AI in engineering workflows**—especially reliability, incident investigation, and developer productivity.
+
+- **[Smart Enterprise Diagnostics (SED)](https://github.com/jamesbond00/ai-copilot-public)**: Open-source experiments in **LLM/agentic incident investigation** — timeline reconstruction, evidence-linked summaries, hypothesis ranking, and faster triage.
+- **AI Tooling Workflow**: Experimenting with agentic IDEs and coding agents (e.g., Antigravity, Cursor, Codex) to stress-test where they help (and where they break) in real codebases and robust Java systems.
+- **Verifiable Automation**: Moving beyond “black box” outputs — designing workflows with traceability, explicit assumptions, and reproducible steps.
+
+---
+
+## Tech Stack & Expertise
+
+- **Core**: Java (expert), concurrency/multi-threading, low-latency patterns, performance tuning, production debugging.
+- **Trading Domain**: RFQ engines, OMS/EMS, FIX, ION MarketView, front-office integrations (Rates/FX/Equities).
+- **AI / Reliability**: LLM orchestration, agentic workflows, evaluation/guardrails, prompt+tool design for engineering systems.
+
+---
+
+## Philosophy
+
+I’m interested in AI that **improves outcomes under production constraints**: measurable speed-ups in diagnosis, fewer repeated incidents, and better operational clarity—without sacrificing reliability.
+
+> *Note: These projects are personal experiments, independent of my professional employment.*
