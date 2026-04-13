@@ -6,6 +6,8 @@ Senior engineer with 15+ years building low-latency, mission-critical front-offi
 
 I’m now extending that same engineering mindset into **LLM-powered diagnostics and agentic workflows**: systems that can turn noisy production signals into **structured, evidence-backed** explanations and next actions—while staying auditable and safe for real environments.
 
+I am also currently completing the Nebius Academy – AI Performance Engineering course, a hands-on program focused on building and optimizing real-world LLM systems. The training covers core machine learning fundamentals and industry best practices, alongside a cohort of bright, highly motivated people from diverse technical and professional backgrounds. Key modules include LLM architectures, the transition from AI models to AI agents, ML Ops, performance engineering, and LLM post-training. You can explore my hands-on work in this space in my agent-building repository: https://github.com/sovereignagents/sovereign-agent-lab, and I will also be adding a dedicated repository showcasing neural network experiments, including building models from scratch in PyTorch. More details: https://academy.nebius.com/ai-engineering-uk
+
 ---
 
 ## What I’m Doing Now
