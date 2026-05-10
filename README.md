@@ -18,6 +18,8 @@ You can explore my hands-on work from the course here:
 
 - AI agents and tool-using workflows: https://github.com/jamesbond00/sovereign-agent-lab
 - LLM architecture, neural-network fundamentals, transformer notebooks, and PyTorch experiments: https://github.com/jamesbond00/nebius-llm-architecture-module-2
+- MLOps lab: distributed PyTorch DDP training on a Nebius Managed Kubernetes GPU cluster, using Docker, Nebius Container Registry, SkyPilot, and NCCL logging: https://gitlab.com/jamesbond00/nebius-academy-ddp/-/blob/discord-notes/DISCORD_NOTES.md?ref_type=heads
+
 
 More details about the course: https://academy.nebius.com/ai-engineering-uk
 
@@ -35,7 +37,7 @@ I use this GitHub space as a practical lab for **production-grade AI in engineer
 
 - **Core**: Java, concurrency/multi-threading, low-latency patterns, performance tuning, production debugging.
 - **Trading Domain**: RFQ engines, OMS/EMS, FIX, ION MarketView, front-office integrations across Rates/FX/Equities.
-- **AI / ML**: Python, PyTorch, Jupyter, neural-network fundamentals, transformer architecture, LLM orchestration, agentic workflows.
+- **AI / ML**: Python, PyTorch, Jupyter, neural-network fundamentals, transformer architecture, LLM orchestration, agentic workflows, Docker, Kubernetes, SkyPilot, distributed training basics.
 - **AI Reliability**: Evaluation, guardrails, prompt and tool design for engineering systems, traceable automation.
 
 ---
