@@ -16,9 +16,10 @@ I am currently completing the Nebius Academy – AI Performance Engineering cour
 
 You can explore my hands-on work from the course here:
 
-- AI agents and tool-using workflows: https://github.com/jamesbond00/sovereign-agent-lab
-- LLM architecture, neural-network fundamentals, transformer notebooks, and PyTorch experiments: https://github.com/jamesbond00/nebius-llm-architecture-module-2
-- MLOps lab: distributed PyTorch DDP training on a Nebius Managed Kubernetes GPU cluster, using Docker, Nebius Container Registry, SkyPilot, and NCCL logging: https://gitlab.com/jamesbond00/nebius-academy-ddp/-/blob/discord-notes/DISCORD_NOTES.md?ref_type=heads
+- Module 1 AI agents and tool-using workflows: https://github.com/jamesbond00/sovereign-agent-lab
+- Module 2 LLM architecture, neural-network fundamentals, transformer notebooks, and PyTorch experiments: https://github.com/jamesbond00/nebius-llm-architecture-module-2
+- Module 3 MLOps lab: distributed PyTorch DDP training on a Nebius Managed Kubernetes GPU cluster, using Docker, Nebius Container Registry, SkyPilot, and NCCL logging: https://gitlab.com/jamesbond00/nebius-academy-ddp/-/blob/discord-notes/DISCORD_NOTES.md?ref_type=heads
+- Module 4 Performance Engineering: GPU and Inference Lab https://github.com/jamesbond00/gpu_and_inference_hw/tree/main
 
 
 More details about the course: https://academy.nebius.com/ai-engineering-uk
