@@ -1,10 +1,46 @@
 # Hi, I'm Alexander
 
-### **Senior Java Engineer | Front Office Trading Systems | Low-Latency & Reliability | Python | Open Source**
+### **Senior Software Engineer | Front-Office Trading Systems | Low-Latency & Reliability | Java, Rust & Python**
 
 Senior engineer with 15+ years building low-latency, mission-critical front-office trading systems at Tier-1 investment banks (RFQ/OMS/FIX across Rates/FX/Equities). I focus on latency-sensitive flows, resiliency, and production ownership, where correctness, operational discipline, and rapid incident response directly matter.
 
 I apply that same engineering mindset to **LLM-powered diagnostics and agentic workflows**: systems that can turn noisy production signals into **structured, evidence-backed** explanations and next actions while staying auditable and safe for real environments.
+
+## Engineer Profile
+
+```java
+public record AlexanderKhundoev(
+
+    String expertise,
+    List<String> technologies,
+    String currentFocus,
+    String mission
+
+) {
+
+    public static AlexanderKhundoev profile() {
+        return new AlexanderKhundoev(
+            "Low-Latency Trading Systems",
+            List.of("Java", "Rust", "Python"),
+            "AI Performance Engineering",
+            "Production-Grade AI Systems"
+        );
+    }
+}
+```
+## Engineering Journey
+
+```text
+Low-Latency Trading Systems
+            ↓
+Distributed Systems
+            ↓
+AI Performance Engineering
+            ↓
+Agentic AI Systems
+            ↓
+AI Infrastructure
+```
 
 ---
 
